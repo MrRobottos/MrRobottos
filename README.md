@@ -22,7 +22,7 @@
 
 ## ⚡ Who I Am
 
-I'm a **software and robotics engineering student** from South Africa operating at the intersection of technology, education, security, and agriculture - simultaneously building a company, judging world-class robotics competitions, mentoring the next generation of engineers, and hunting security vulnerabilities.
+I'm a **Autonomous Robotics Systems Engineer Student** from South Africa operating at the intersection of technology, education, security, and agriculture - simultaneously building a company, judging world-class robotics competitions, mentoring the next generation of engineers, and hunting security vulnerabilities.
 
 This GitHub is the full archive of everything I build. In public. From zero.
 
