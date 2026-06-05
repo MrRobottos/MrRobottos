@@ -4,9 +4,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=E24B4A&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MrRobottos&color=E24B4A&style=flat-square&label=Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=E24B4A&style=flat-square&label=Followers)
+![GitHub followers](https://img.shields.io/github/followers/MrRobottos?color=E24B4A&style=flat-square&label=Followers)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## ⚡ Who I Am
 
-I'm a **software and robotics engineering student** from South Africa operating at the intersection of technology, education, security, and agriculture — simultaneously building a company, judging world-class robotics competitions, mentoring the next generation of engineers, and hunting security vulnerabilities.
+I'm a **software and robotics engineering student** from South Africa operating at the intersection of technology, education, security, and agriculture - simultaneously building a company, judging world-class robotics competitions, mentoring the next generation of engineers, and hunting security vulnerabilities.
 
 This GitHub is the full archive of everything I build. In public. From zero.
 
@@ -33,17 +33,17 @@ This GitHub is the full archive of everything I build. In public. From zero.
 <td width="50%">
 
 **🔴 Founder & Builder**
-- Founder — [Wired Minds](https://github.com/YOUR_USERNAME) · Agritech company building smart livestock tracking, AI farm dashboards, and agricultural robotics
+- Founder — [Wired Minds](https://github.com/MrRobottos) · Agritech company building smart livestock tracking, AI farm dashboards, and agricultural robotics
 - Creator — Rogue Engineers · Robotics education platform teaching from absolute zero
 
 </td>
 <td width="50%">
 
 **🏆 Judge, Referee & Mentor**
-- **Referee** — FIRST Global Challenge, World Robotics Championship, Incheon South Korea 2026
-- **Judge** — FLL (FIRST LEGO League) SA · Regionals & Nationals 2026
-- **Judge** — FTC (FIRST Tech Challenge) SA
-- **Mentor & Coach** — Robotics teams: programming, build strategy, team culture
+- **Referee** - FIRST Global Challenge, World Robotics Championship, Incheon, South Korea 2026
+- **Judge** - FLL (FIRST LEGO League) SA · Regionals & Nationals
+- **Judge** - FTC (FIRST Tech Challenge) SA · Regionals & Nationals
+- **Mentor & Coach** - Robotics teams: programming, build strategy, team culture
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ This GitHub is the full archive of everything I build. In public. From zero.
 <td width="50%">
 
 **🔐 Security Researcher**
-- Bug Bounty Hunter — HackerOne · Bugcrowd · Intigriti
+- Bug Bounty Hunter - HackerOne · Bugcrowd · Intigriti
 - Focus: Web application security, IoT device security, API vulnerabilities, OWASP Top 10
 - PortSwigger Web Security Academy certified learning path
 
@@ -59,7 +59,7 @@ This GitHub is the full archive of everything I build. In public. From zero.
 <td width="50%">
 
 **📡 Everything Else**
-- Content creator across TikTok, YouTube, LinkedIn, Instagram — documenting the full journey
+- Content creator across TikTok, YouTube, LinkedIn, Instagram - documenting the full journey
 - 📍 South Africa · Building for the world
 - ✈️ FIRST Global Korea Oct 2026 · Cape Town Nov 2026 · Japan Dec 2026
 
@@ -69,7 +69,7 @@ This GitHub is the full archive of everything I build. In public. From zero.
 
 ---
 
-## 🔴 Wired Minds — The Company
+## 🔴 Wired Minds - The Company
 
 > *Intelligent farming systems. Built from zero. Documented in every commit.*
 
@@ -86,10 +86,10 @@ Livestock theft costs the world billions annually. Wired Minds builds the techno
 
 <div align="center">
 
-[![Wired Minds TikTok](https://img.shields.io/badge/TikTok-Wired_Minds-E24B4A?style=flat-square&logo=tiktok&logoColor=white)](#)
-[![Wired Minds YouTube](https://img.shields.io/badge/YouTube-Wired_Minds-E24B4A?style=flat-square&logo=youtube&logoColor=white)](#)
-[![Wired Minds LinkedIn](https://img.shields.io/badge/LinkedIn-Wired_Minds-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Wired Minds Twitter](https://img.shields.io/badge/Twitter-@WiredMindsSA-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
+[![Wired Minds TikTok](https://img.shields.io/badge/TikTok-wiredmindshq-E24B4A?style=flat-square&logo=tiktok&logoColor=white)](#)
+[![Wired Minds YouTube](https://img.shields.io/badge/YouTube-wiredmindshq-E24B4A?style=flat-square&logo=youtube&logoColor=white)](#)
+[![Wired Minds LinkedIn](https://img.shields.io/badge/LinkedIn-wiredmindshq-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Wired Minds Twitter](https://img.shields.io/badge/Twitter-@wiredmindshq-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
 
 </div>
 
@@ -106,9 +106,9 @@ A robotics education platform built on one belief — that engineering should be
 
 <div align="center">
 
-[![Rogue Engineers TikTok](https://img.shields.io/badge/TikTok-Rogue_Engineers-BA7517?style=flat-square&logo=tiktok&logoColor=white)](#)
-[![Rogue Engineers YouTube](https://img.shields.io/badge/YouTube-Rogue_Engineers-BA7517?style=flat-square&logo=youtube&logoColor=white)](#)
-[![Rogue Engineers Instagram](https://img.shields.io/badge/Instagram-Rogue_Engineers-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
+[![Rogue Engineers TikTok](https://img.shields.io/badge/buildlikearouge-BA7517?style=flat-square&logo=tiktok&logoColor=white)](#)
+[![Rogue Engineers YouTube](https://img.shields.io/badge/YouTube-BuildLikeARogue-BA7517?style=flat-square&logo=youtube&logoColor=white)](#)
+[![Rogue Engineers Instagram](https://img.shields.io/badge/Instagram-buildlikearouge-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
 
 </div>
 
@@ -129,13 +129,13 @@ A robotics education platform built on one belief — that engineering should be
 
 </div>
 
-Being a judge and mentor is not just a credential — it means I understand what separates teams that win from teams that only compete. That perspective informs everything I build.
+Being a judge and mentor is not just a credential - it means I understand what separates teams that win from teams that only compete. That perspective informs everything I build.
 
 ---
 
 ## 🔐 Bug Bounty & Security Research
 
-Security is not a separate discipline for me — it is built into everything I build. Every Wired Minds IoT device, every API endpoint, every dashboard is designed with security-first thinking because I understand what attackers look for.
+Security is not a separate discipline for me - it is built into everything I build. Every Wired Minds IoT device, every API endpoint, every dashboard is designed with security-first thinking because I understand what attackers look for.
 
 **Active on:**
 
