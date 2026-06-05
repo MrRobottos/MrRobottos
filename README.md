@@ -144,10 +144,10 @@ Security is not a separate discipline for me - it is built into everything I bui
 [![Intigriti](https://img.shields.io/badge/Intigriti-1A1A2E?style=flat-square&logo=intigriti&logoColor=white)](#)
 
 **Focus areas:**
-- 🌐 Web application vulnerabilities — OWASP Top 10, business logic flaws, broken access control
-- 📡 IoT security — device communication, firmware analysis, unencrypted data streams
-- 🔑 Authentication & authorisation — JWT vulnerabilities, session management, privilege escalation
-- 🔌 API security — REST API fuzzing, parameter manipulation, mass assignment
+- 🌐 Web application vulnerabilities - OWASP Top 10, business logic flaws, broken access control
+- 📡 IoT security - device communication, firmware analysis, unencrypted data streams
+- 🔑 Authentication & authorisation - JWT vulnerabilities, session management, privilege escalation
+- 🔌 API security - REST API fuzzing, parameter manipulation, mass assignment
 
 **Learning path:** PortSwigger Web Security Academy → Practice on CTFs → Bug Bounty programmes → Responsible disclosure → Building more secure products
 
@@ -244,7 +244,7 @@ Building in public. Every commit. Every failure. Every breakthrough.
 - [ ] 👥 Grow Wired Minds + Rogue Engineers to 400K combined followers
 - [ ] ✈️ Build from Cape Town (Nov) · Japan (Dec) — proving location is not a limit
 - [ ] 📰 First press coverage in TechCentral or Daily Maverick
-- [ ] 🌱 Open land savings account — the bee farm starts with the first deposit
+- [ ] 🌱 Open land savings account - the bee farm starts with the first deposit
 
 ---
 
