@@ -254,14 +254,14 @@ Building in public. Every commit. Every failure. Every breakthrough.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Personal_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 
-[![TikTok WM](https://img.shields.io/badge/TikTok-Wired_Minds-E24B4A?style=for-the-badge&logo=tiktok&logoColor=white)](#)
+[![TikTok WM](https://img.shields.io/badge/TikTok-wiredmindshq-E24B4A?style=for-the-badge&logo=tiktok&logoColor=white)](#)
 [![TikTok RE](https://img.shields.io/badge/TikTok-Rogue_Engineers-BA7517?style=for-the-badge&logo=tiktok&logoColor=white)](#)
 
-[![YouTube WM](https://img.shields.io/badge/YouTube-Wired_Minds-E24B4A?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![YouTube WM](https://img.shields.io/badge/YouTube-wiredmindshq-E24B4A?style=for-the-badge&logo=youtube&logoColor=white)](#)
 [![YouTube RE](https://img.shields.io/badge/YouTube-Rogue_Engineers-BA7517?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-Bug_Bounty-494649?style=for-the-badge&logo=hackerone&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-@WiredMindsSA-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-@wiredmindshq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 </div>
 
