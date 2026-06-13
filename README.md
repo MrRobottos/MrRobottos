@@ -11,13 +11,11 @@
 </div>
 
 ---
-
 <div align="center">
 
 ## I don't wait for the future. I architect it.
 
 </div>
-
 ---
 
 ## ⚡ Who I Am
