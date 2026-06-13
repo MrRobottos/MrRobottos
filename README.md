@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrRobottos&color=E24B4A&style=flat-square&label=Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/MrRobottos?color=E24B4A&style=flat-square&label=Followers)
+[![GitHub followers](https://img.shields.io/github/followers/MrRobottos?color=E24B4A&style=flat-square&label=Followers)](https://github.com/MrRobottos)
 
 </div>
 
@@ -33,8 +33,8 @@ This GitHub is the full archive of everything I build. In public. From zero.
 <td width="50%">
 
 **🔴 Founder & Builder**
-- Founder — [Wired Minds](https://github.com/MrRobottos) · Agritech company building smart livestock tracking, AI farm dashboards, and agricultural robotics
-- Creator — Rogue Engineers · Robotics education platform teaching from absolute zero
+- Founder - [Wired Minds](https://github.com/MrRobottos) · Agritech company building smart livestock tracking, AI farm dashboards, and agricultural robotics
+- Creator - Rogue Engineers · Robotics education platform teaching from absolute zero
 
 </td>
 <td width="50%">
@@ -73,7 +73,7 @@ This GitHub is the full archive of everything I build. In public. From zero.
 
 > *Intelligent farming systems. Built from zero. Documented in every commit.*
 
-Livestock theft costs the world billions annually. Wired Minds builds the technology that ends it — smart GPS collars, AI anomaly detection, real-time farm monitoring dashboards, and autonomous agricultural robotics. Built in South Africa. Built for the world.
+Livestock theft costs the world billions annually. Wired Minds builds the technology that ends it - smart GPS collars, AI anomaly detection, real-time farm monitoring dashboards, and autonomous agricultural robotics. Built in South Africa. Built for the world.
 
 | Product | Status | Stack |
 |---------|--------|-------|
@@ -86,29 +86,29 @@ Livestock theft costs the world billions annually. Wired Minds builds the techno
 
 <div align="center">
 
-[![Wired Minds TikTok](https://img.shields.io/badge/TikTok-wiredmindshq-E24B4A?style=flat-square&logo=tiktok&logoColor=white)](#)
-[![Wired Minds YouTube](https://img.shields.io/badge/YouTube-wiredmindshq-E24B4A?style=flat-square&logo=youtube&logoColor=white)](#)
-[![Wired Minds LinkedIn](https://img.shields.io/badge/LinkedIn-wiredmindshq-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Wired Minds Twitter](https://img.shields.io/badge/Twitter-@wiredmindshq-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
+[![Wired Minds TikTok](https://img.shields.io/badge/TikTok-wiredmindshq-E24B4A?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wiredmindshq)
+[![Wired Minds YouTube](https://img.shields.io/badge/YouTube-wiredmindshq-E24B4A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@wiredmindshq)
+[![Wired Minds LinkedIn](https://img.shields.io/badge/LinkedIn-wiredmindshq-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darius-mushi)
+[![Wired Minds Twitter](https://img.shields.io/badge/Twitter-@wiredmindshq-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wiredmindshq)
 
 </div>
 
 ---
 
-## ⚙️ Rogue Engineers — The Platform
+## ⚙️ Rogue Engineers - The Platform
 
 > *Robotics is for everyone. We prove it daily.*
 
-A robotics education platform built on one belief — that engineering should be accessible to every young person regardless of background, budget, or geography. Teaching Python, Arduino, ROS2, FIRST Robotics, circuit design, and robot mechanics from absolute zero. No equipment needed to start. No prerequisites. No gatekeeping.
+A robotics education platform built on one belief - that engineering should be accessible to every young person regardless of background, budget, or geography. Teaching Python, Arduino, ROS2, FIRST Robotics, circuit design, and robot mechanics from absolute zero. No equipment needed to start. No prerequisites. No gatekeeping.
 
 **What I teach:**
 `Python for Robotics` · `Arduino & Embedded Systems` · `ROS2` · `Circuit Design` · `FIRST Robotics Strategy` · `Robot Mechanics` · `IoT Integration` · `Computer Vision` · `Bug Bounty Basics`
 
 <div align="center">
 
-[![Rogue Engineers TikTok](https://img.shields.io/badge/buildlikearouge-BA7517?style=flat-square&logo=tiktok&logoColor=white)](#)
-[![Rogue Engineers YouTube](https://img.shields.io/badge/YouTube-BuildLikeARogue-BA7517?style=flat-square&logo=youtube&logoColor=white)](#)
-[![Rogue Engineers Instagram](https://img.shields.io/badge/Instagram-buildlikearouge-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
+[![Rogue Engineers TikTok](https://img.shields.io/badge/TikTok-buildlikearouge-BA7517?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@buildlikearouge)
+[![Rogue Engineers YouTube](https://img.shields.io/badge/YouTube-BuildLikeARouge-BA7517?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@BuildLikeARouge)
+[![Rogue Engineers Instagram](https://img.shields.io/badge/Instagram-buildlikearouge-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/buildlikearouge)
 
 </div>
 
@@ -139,9 +139,9 @@ Security is not a separate discipline for me - it is built into everything I bui
 
 **Active on:**
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](#)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=white)](#)
-[![Intigriti](https://img.shields.io/badge/Intigriti-1A1A2E?style=flat-square&logo=intigriti&logoColor=white)](#)
+[![HackerOne](https://img.shields.io/badge/HackerOne-prot3an-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/prot3an)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Protean-F26822?style=flat-square&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/Protean)
+[![Intigriti](https://img.shields.io/badge/Intigriti-mrrobotto-1A1A2E?style=flat-square&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/profile/mrrobotto)
 
 **Focus areas:**
 - 🌐 Web application vulnerabilities - OWASP Top 10, business logic flaws, broken access control
@@ -208,22 +208,22 @@ Security is not a separate discipline for me - it is built into everything I bui
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=E24B4A&icon_color=E24B4A&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MrRobottos&show_icons=true&theme=dark&hide_border=true&title_color=E24B4A&icon_color=E24B4A&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=E24B4A&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobottos&layout=compact&theme=dark&hide_border=true&title_color=E24B4A&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=E24B4A&fire=E24B4A&currStreakLabel=E24B4A&sideNums=ffffff&sideLabels=888888&background=0d1117&dates=888888" alt="GitHub Streak" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRobottos&theme=dark&hide_border=true&ring=E24B4A&fire=E24B4A&currStreakLabel=E24B4A&sideNums=ffffff&sideLabels=888888&background=0d1117&dates=888888" alt="GitHub Streak" width="60%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Contribution snake animation — set up via GitHub Actions (instructions below) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/MrRobottos/MrRobottos/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -252,16 +252,23 @@ Building in public. Every commit. Every failure. Every breakthrough.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Personal_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darius_Mushi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darius-mushi)
 
-[![TikTok WM](https://img.shields.io/badge/TikTok-wiredmindshq-E24B4A?style=for-the-badge&logo=tiktok&logoColor=white)](#)
-[![TikTok RE](https://img.shields.io/badge/TikTok-Rogue_Engineers-BA7517?style=for-the-badge&logo=tiktok&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-MrRobottos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrRobottos)
 
-[![YouTube WM](https://img.shields.io/badge/YouTube-wiredmindshq-E24B4A?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![YouTube RE](https://img.shields.io/badge/YouTube-Rogue_Engineers-BA7517?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![TikTok WM](https://img.shields.io/badge/TikTok-wiredmindshq-E24B4A?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@wiredmindshq)
+[![TikTok RE](https://img.shields.io/badge/TikTok-buildlikearouge-BA7517?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@buildlikearouge)
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-Bug_Bounty-494649?style=for-the-badge&logo=hackerone&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-@wiredmindshq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![YouTube WM](https://img.shields.io/badge/YouTube-wiredmindshq-E24B4A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wiredmindshq)
+[![YouTube RE](https://img.shields.io/badge/YouTube-BuildLikeARouge-BA7517?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BuildLikeARouge)
+
+[![Instagram RE](https://img.shields.io/badge/Instagram-buildlikearouge-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/buildlikearouge)
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-prot3an-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/prot3an)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Protean-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/Protean)
+[![Intigriti](https://img.shields.io/badge/Intigriti-mrrobotto-1A1A2E?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/profile/mrrobotto)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@wiredmindshq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wiredmindshq)
 
 </div>
 
