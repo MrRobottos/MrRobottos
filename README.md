@@ -95,7 +95,7 @@ Livestock theft costs the world billions annually. Wired Minds builds the techno
 
 ---
 
-## ⚙️ Rogue Engineers — The Platform
+## ⚙️ Rogue Engineers - The Platform
 
 > *Robotics is for everyone. We prove it daily.*
 
