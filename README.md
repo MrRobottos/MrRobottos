@@ -33,7 +33,7 @@ This GitHub is the full archive of everything I build. In public. From zero.
 <td width="50%">
 
 **🔴 Founder & Builder**
-- Founder - [Wired Minds](https://github.com/MrRobottos) · Agritech company building smart livestock tracking, AI farm dashboards, and agricultural robotics
+- Founder - [Wired Minds](https://github.com/MrRobottos/Wired-Minds) · Agritech company building smart livestock tracking, AI farm dashboards, and agricultural robotics
 - Creator - Rogue Engineers · Robotics education platform teaching from absolute zero
 
 </td>
