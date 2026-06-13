@@ -11,11 +11,13 @@
 </div>
 
 ---
+
 <div align="center">
 
 ## I don't wait for the future. I architect it.
 
 </div>
+
 ---
 
 ## ⚡ Who I Am
@@ -71,7 +73,7 @@ This GitHub is the full archive of everything I build. In public. From zero.
 
 > *Intelligent farming systems. Built from zero. Documented in every commit.*
 
-Livestock theft costs the world billions annually. Wired Minds builds the technology that ends it - smart GPS collars, AI anomaly detection, real-time farm monitoring dashboards, and autonomous agricultural robotics. Built in South Africa. Built for the world.
+Livestock theft costs the world billions annually. Wired Minds builds the technology that ends it — smart GPS collars, AI anomaly detection, real-time farm monitoring dashboards, and autonomous agricultural robotics. Built in South Africa. Built for the world.
 
 | Product | Status | Stack |
 |---------|--------|-------|
@@ -93,7 +95,7 @@ Livestock theft costs the world billions annually. Wired Minds builds the techno
 
 ---
 
-## ⚙️ Rogue Engineers - The Platform
+## ⚙️ Rogue Engineers — The Platform
 
 > *Robotics is for everyone. We prove it daily.*
 
@@ -235,12 +237,12 @@ Building in public. Every commit. Every failure. Every breakthrough.
 
 - [ ] 🔴 Build and deploy Wired Minds smart GPS livestock collar on a real farm
 - [ ] 🧠 Complete AI anomaly detection and full IoT system integration
-- [ ] 🌍 Referee FIRST Global Challenge — Incheon, South Korea (October 2026)
+- [ ] 🌍 Referee FIRST Global Challenge - Incheon, South Korea (October 2026)
 - [ ] 🏆 Judge FLL SA Regionals (Oct 31 · Nov 7 · Nov 28 Cape Town) and Nationals (Dec 4–5)
 - [ ] ⚙️ Launch Rogue Engineers Zero to Robot beginner course (November 2026)
 - [ ] 🔐 Submit first valid bug bounty report and document the methodology
 - [ ] 👥 Grow Wired Minds + Rogue Engineers to 400K combined followers
-- [ ] ✈️ Build from Cape Town (Nov) · Japan (Dec) — proving location is not a limit
+- [ ] ✈️ Build from Cape Town (Nov) · Japan (Dec) - proving location is not a limit
 - [ ] 📰 First press coverage in TechCentral or Daily Maverick
 - [ ] 🌱 Open land savings account - the bee farm starts with the first deposit
 
