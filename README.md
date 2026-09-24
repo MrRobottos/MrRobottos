@@ -40,7 +40,7 @@ This GitHub is the full archive of everything I build. In public. From zero.
 <td width="50%">
 
 **🏆 Judge, Referee & Mentor**
-- **Referee** - FIRST Global Challenge, World Robotics Championship, Incheon, South Korea 2026
+- **Referee/Judge** - FIRST Global Challenge, World Robotics Championship, Incheon, South Korea 2026
 - **Judge** - FLL (FIRST LEGO League) SA · Regionals & Nationals
 - **Judge** - FTC (FIRST Tech Challenge) SA · Regionals & Nationals
 - **Mentor & Coach** - Robotics teams: programming, build strategy, team culture
