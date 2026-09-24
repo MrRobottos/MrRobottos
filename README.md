@@ -120,7 +120,7 @@ A robotics education platform built on one belief - that engineering should be a
 
 | Role | Organisation | Scope & Notes |
 |------|-------------|---------------|
-| 🌍 **Referee** | FIRST Global Challenge | World Robotics Championship · Incheon, South Korea · October 2026 · 190+ nations competing |
+| 🌍 **Referee**&**Judge** | FIRST Global Challenge | World Robotics Championship · Incheon, South Korea · October 2026 · 190+ nations competing |
 | 🏆 **Judge** | FLL South Africa | FIRST LEGO League · Regional & National competitions · 2026 season |
 | 🏆 **Judge** | FTC South Africa | FIRST Tech Challenge · Regional competitions · 2026 season |
 | 🤝 **Mentor & Coach** | Robotics Teams | Programming · Build strategy · Engineering process · Team leadership & culture |
