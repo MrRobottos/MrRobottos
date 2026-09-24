@@ -237,7 +237,7 @@ Building in public. Every commit. Every failure. Every breakthrough.
 
 - [ ] 🔴 Build and deploy Wired Minds smart GPS livestock collar on a real farm
 - [ ] 🧠 Complete AI anomaly detection and full IoT system integration
-- [ ] 🌍 Referee FIRST Global Challenge - Incheon, South Korea (October 2026)
+- [ ] 🌍 Referee & Judge FIRST Global Challenge - Incheon, South Korea (October 2026)
 - [ ] 🏆 Judge FLL SA Regionals (Oct 31 · Nov 7 · Nov 28 Cape Town) and Nationals (Dec 4–5)
 - [ ] ⚙️ Launch Rogue Engineers Zero to Robot beginner course (November 2026)
 - [ ] 🔐 Submit first valid bug bounty report and document the methodology
@@ -280,6 +280,6 @@ Building in public. Every commit. Every failure. Every breakthrough.
 
 **🇿🇦 South Africa → 🇰🇷 South Korea → 🇯🇵 Japan → 🌍 Everywhere**
 
-<sub>This README updates as the journey evolves. Last updated: June 2026.</sub>
+<sub>This README updates as the journey evolves. Last updated: September 2026.</sub>
 
 </div>
