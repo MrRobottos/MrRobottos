@@ -54,9 +54,20 @@ jobs:
           pip install fonttools pillow
           python scripts/render_cards.py
 
-      - name: Commit cards
+            - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data cards fonts
-          git diff --staged --quiet || (git commit -m "chore: refresh profile cards" && git push)
+          if git diff --staged --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "chore: refresh profile cards"
+          # if something else pushed to main meanwhile, replay our commit on top and retry
+          # (during a rebase, "theirs" means our new commit, so the fresh cards win)
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
