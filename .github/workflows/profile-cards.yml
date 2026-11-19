@@ -1,0 +1,62 @@
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # If you already have a step/workflow that writes data/contributions.json, delete this
+      # step. The script reads either this raw GraphQL shape or {"days":[{"date","count"}],
+      # "repos":[...]}. Add a PROFILE_TOKEN secret (read:user) to include private contributions.
+      - name: Refresh contribution data
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          LOGIN: MrRobottos
+        run: |
+          FROM=$(date -u -d "$(date -u +%Y-%m-01) -11 months" +%Y-%m-%dT00:00:00Z)
+          TO=$(date -u +%Y-%m-%dT23:59:59Z)
+          mkdir -p data
+          gh api graphql -f login="$LOGIN" -f from="$FROM" -f to="$TO" -f query='
+            query($login: String!, $from: DateTime!, $to: DateTime!) {
+              user(login: $login) {
+                contributionsCollection(from: $from, to: $to) {
+                  contributionCalendar {
+                    totalContributions
+                    weeks { contributionDays { date contributionCount } }
+                  }
+                }
+                pinnedItems(first: 6, types: REPOSITORY) {
+                  nodes { ... on Repository {
+                    name url description stargazerCount forkCount
+                    primaryLanguage { name color }
+                  } }
+                }
+              }
+            }' \
+            | jq --arg t "$(date -u +%Y-%m-%dT%H:%M:%SZ)" '. + {generated_at: $t}' \
+            > data/contributions.json
+
+      - name: Render cards
+        run: |
+          pip install fonttools pillow
+          python scripts/render_cards.py
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data cards fonts
+          git diff --staged --quiet || (git commit -m "chore: refresh profile cards" && git push)
